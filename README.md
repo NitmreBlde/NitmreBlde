@@ -12,16 +12,16 @@ My interests spans in Full-Stack Development, DataBase, Backend development, Dev
 
 An AI-powered Chronic Kidney Disease companion designed to support early risk prediction, personalized health insights, and conversational patient assistance through an intuitive healthcare experience.
 
-**Repository:** NitmreBlde/NephroNet-CKD
+**Repository:** [NephroNet-CKD](https://github.com/NitmreBlde/NephroNet-CKD)
 
 ---
 
-### The Trust Gradient
+### Ai Debugging UX
 
 UX research exploring cognitive load, automation bias, and debugging behavior in AI-generated code using GitHub Copilot. The study investigates how developers interact with AI-assisted programming tools and proposes evidence-based IDE improvements.
 
-**Repository:** NitmreBlde/Ai_Debugging_UX 
-**Case Study:** trust-gradient-case-study.pdf
+**Repository:** [Ai_Debugging_UX](https://github.com/NitmreBlde/Ai_Debugging_UX) 
+**Case Study:** [case-study](https://github.com/NitmreBlde/Ai_Debugging_UX/blob/main/trust-gradient-case-study.pdf)
 
 ---
 
@@ -29,26 +29,18 @@ UX research exploring cognitive load, automation bias, and debugging behavior in
 
 A secure VPN management dashboard developed to simplify connection management, authentication, and network controls through a clean and accessible interface.
 
-**Repository:** NitmreBlde/Zeus
+**Repository:** [Zeus](https://github.com/NitmreBlde/Zeus)
 
 ---
 ### Google Maps — Saved Places Redesign
 
 A product redesign of Google Maps' Saved Places feature introducing Smart Collections and Collaborative Itineraries to improve organization, trip planning, and retrieval through user-centered design.
 
-**Repository:** NitmreBlde/GMaps_CaseStudy  
-**Case Study:** saved_places_case_study.pdf
+**Repository:** [GMaps](https://github.com/NitmreBlde/GMaps_CaseStudy)
+**Case Study:** [case_study](https://github.com/NitmreBlde/GMaps_CaseStudy/blob/main/saved_places_case_study.pdf)
 
 ---
 
-
-## Design Philosophy
-
-I believe good products emerge when user needs, business goals, and technical constraints are considered together—not in isolation.
-
-Whether I'm conducting UX research, designing interfaces, or developing applications, I strive to understand the problem deeply before proposing solutions. My approach combines structured research, systems thinking, and software engineering to create experiences that are intuitive, scalable, and practical to build.
-
----
 
 ## What I Enjoy Building
 
@@ -106,7 +98,7 @@ Whether I'm conducting UX research, designing interfaces, or developing applicat
 ## Connect
 
 **LinkedIn**  
-[linkedin](https://www.linkedin.com/in/nireeksha-k-r-2786b9314/)
+[Nireeksha_K_R](https://www.linkedin.com/in/nireeksha-k-r-2786b9314/)
 
 **Email**  
 nishuniree135@gmail.com 
